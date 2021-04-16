@@ -28,7 +28,7 @@ For the conversion process to `.tflite` see the [toolchain repository](../TFLM-t
 
 ## Convolutional layers benchmarking
 
-[Conv](A_01dg_ConvBenchmark_SingleConv_F-Y_K-3.png)
+![Conv](A_01dg_ConvBenchmark_SingleConv_F-Y_K-3.png)
 
 ## Depth-wise convolutional layers benchmarking
 
